@@ -1,3 +1,3 @@
 # animaxapp.com
 
-Go to Animaxapp.com
+Go to https://animaxapp.com
